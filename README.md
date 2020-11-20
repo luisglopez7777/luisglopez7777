@@ -17,5 +17,5 @@ Moreover, I belong to [Platzi Master](https://platzi.com/blog/que-es-platzi-mast
 - [Mail me](mailto:luisglopez7777@gmail.com)
 
 
-<!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=luisglopez7777&show_icons=true&theme=radical)](https://github.com/luisglopez7777/github-readme-stats) -->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=luisglopez7777&show_icons=true&theme=radical)](https://github.com/luisglopez7777/github-readme-stats)
 
